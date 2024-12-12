@@ -1,9 +1,8 @@
 # BioChemLab
-Notebooks for the Biochemistry Laboratory at Boise State CHEM432
+Notebooks for the Biochemistry Laboratory (CHEM 432) at Boise State University
+
 Authors: Jasmine Baclig, Chris Saunders
-Content of the project:
 
-Basic Jupyter Notebook for the nonlinear fit of experimental results
-
-... 
-
+## Content
+- HyperbolicDataFitting.ipynb: Basic Jupyter notebook for the hyperbolic fit of experimental results
+- mich-men.csv: Example data following Michaelis-Menten kinetics
