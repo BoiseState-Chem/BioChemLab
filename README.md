@@ -6,3 +6,4 @@ Authors: Jasmine Baclig, Chris Saunders
 ## Content
 - HyperbolicDataFitting.ipynb: Basic Jupyter notebook for the hyperbolic fit of experimental results
 - mich-men.csv: Example data following Michaelis-Menten kinetics
+- Figure.png: Visual representation of the equation used in HyperbolicDataFitting.ipynb
